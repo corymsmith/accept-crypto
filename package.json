@@ -1,0 +1,30 @@
+{
+  "name": "accept-crypto",
+  "version": "1.0.0",
+  "description": "This package allows developers to easily accept cryptocurrencies",
+  "main": "index.js",
+  "dependencies": {
+    "big-integer": "^1.6.25",
+    "bitcoinjs-lib": "^3.2.0",
+    "request": "^2.82.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgbarrow/accept-crypto.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "litecoin",
+    "crytocurrency"
+  ],
+  "author": "Henry Barrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hgbarrow/accept-crypto/issues"
+  },
+  "homepage": "https://github.com/hgbarrow/accept-crypto#readme"
+}
